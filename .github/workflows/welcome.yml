@@ -1,0 +1,22 @@
+name: Welcome New Contributors
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          pr-message: |
+            ## Welcome to Awesome Student Software Deals! 🚀
+
+            Thanks for your contribution! A maintainer will verify your link shortly.
+            Please ensure you've read the [CONTRIBUTING.md](https://github.com/couponswift/awesome-student-software-deals/blob/main/CONTRIBUTING.md) guidelines.
+
+            **Verification Status:**
+            - Link Check: ⏳ Pending
+            - Maintainer Review: ⏳ Pending

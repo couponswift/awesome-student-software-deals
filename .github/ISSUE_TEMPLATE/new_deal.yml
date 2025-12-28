@@ -1,0 +1,53 @@
+name: Submit a New Deal
+description: Suggest a new student discount or software deal
+title: "[New Deal]: <Tool Name>"
+labels: ["deal-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a deal! Please make sure it meets our [verification rules](https://github.com/couponswift/awesome-student-software-deals/blob/main/CONTRIBUTING.md).
+
+  - type: input
+    id: name
+    attributes:
+      label: Tool Name
+      placeholder: e.g. Adobe Creative Cloud
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Official Link (Vendor Page)
+      description: Must be the official student page. No affiliate links.
+      placeholder: https://www.adobe.com/creativecloud/buy/students.html
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Deai Description
+      description: Short, factual description of what students get.
+      placeholder: Over 60% discount on the "All Apps" plan.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Cloud & Infrastructure
+        - IDE & Developer Tools
+        - Web & Domains
+        - AI & Machine Learning
+        - Design & Creative
+        - Productivity & Collaboration
+        - Audio & Video
+        - Security & Privacy
+        - Learning & Resources
+        - Other
+    validations:
+      required: true
