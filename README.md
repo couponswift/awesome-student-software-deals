@@ -19,8 +19,6 @@ This list focuses on high-quality tools for developers, designers, and creators.
 - [Audio & Video](#-audio--video)
 - [Security & Privacy](#-security--privacy)
 - [Learning & Resources](#-learning--resources)
-- [Hardware](#-hardware)
-- [Hackathons & Communities](#-hackathons--communities)
 
 ---
 
@@ -139,21 +137,7 @@ This list focuses on high-quality tools for developers, designers, and creators.
 - [freeCodeCamp](https://www.freecodecamp.org/) - Always free, verified certifications.
 - [DataCamp](https://www.datacamp.com/groups/education) - Free access to the full platform for classrooms (requires teacher setup).
 
-## 💻 Hardware
 
-- [Apple Education Store](https://www.apple.com/us-edu/shop) - Education pricing on Mac and iPad (usually ~$100 off + gift card/AirPods promos).
-- [Dell University](https://www.dell.com/en-us/lp/university) - Student discounts and rewards on laptops and monitors.
-- [Samsung Student Offers](https://www.samsung.com/us/shop/offer-program/education/) - Discounts on Galaxy phones, tablets, and laptops.
-- [Logitech](https://www.logitech.com/en-us/promo/student-discount.html) - 25% discount via Student Beans/UNiDAYS.
-- [Framework Laptops](https://frame.work/students) - Student program for repairable laptops.
-
-## 🏆 Hackathons & Communities
-
-- [Major League Hacking (MLH)](https://mlh.io/) - The official student hackathon league. Finds events near you.
-- [Devpost](https://devpost.com/) - The home of hackathons. Find online and in-person competitions.
-- [Hack Club](https://hackclub.com/) - Network of high school coding clubs and makers.
-- [Google Developer Student Clubs](https://developers.google.com/community/gdsc) - University-based community groups for students interested in Google developer technologies.
-- [Microsoft Learn Student Ambassadors](https://mvp.microsoft.com/studentambassadors) - Global group of on-campus ambassadors.
 
 
 ---
