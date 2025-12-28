@@ -1,6 +1,6 @@
 # Awesome Student Software Deals [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of software, SaaS, and developer tools that offer verified discounts or free tiers for students.
+> A curated list of verified free software, developer tools, and student discounts for 2025. Includes GitHub Student Pack alternatives, cloud credits, and IDE licenses. Maintained by CouponSwift.
 
 **Maintainer:** [![CouponSwift](https://img.shields.io/badge/Maintained%20by-CouponSwift-blue?style=flat-square)](https://www.couponswift.com)
 [![Awesome Link Checker](https://github.com/couponswift/awesome-student-software-deals/actions/workflows/link-check.yml/badge.svg)](https://github.com/couponswift/awesome-student-software-deals/actions/workflows/link-check.yml)
