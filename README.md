@@ -120,7 +120,7 @@ This list focuses on high-quality tools for developers, designers, and creators.
 
 ## 🔒 Security & Privacy
 
-- **[Verified VPN Student Codes](https://www.couponswift.com/vpn/coupons)** - Curated list of verified discounts for VPN and privacy tools.
+- **[Verified VPN Codes](https://www.couponswift.com/vpn/coupons)** - Curated list of verified discounts for VPN and privacy tools.
 - [1Password](https://1password.com/github-student-developer-pack/) - Free for 1 year (via GitHub Student Developer Pack).
 - [Dashlane](https://www.dashlane.com/students) - Free Premium for 1 year for students.
 - [Namecheap SSL](https://www.namecheap.com/security/ssl-certificates/) - Free SSL certificate (often bundled with Namecheap education offers).
