@@ -38,6 +38,7 @@ This list focuses on high-quality tools for developers, designers, and creators.
 
 ## 💻 IDE & Developer Tools
 
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
 - [JetBrains](https://www.jetbrains.com/community/education/#students) - Free All Products Pack (IntelliJ IDEA, PyCharm, WebStorm, etc.) for students.
 - [Visual Studio Code](https://code.visualstudio.com/) - Free, open-source code editor with thousands of extensions.
 - [Tower](https://www.git-tower.com/students) - Free Pro account for the powerful Git client (available in GitHub Student Pack).
