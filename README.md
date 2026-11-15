@@ -85,6 +85,7 @@ This list focuses on high-quality tools for developers, designers, and creators.
 
 ## 🚀 Productivity & Collaboration
 
+- [Kilobat Pro for Students](https://kilobat.app/students) - Mac network diagnostics and hotspot data monitoring. Students aged 13+ enrolled in a degree-granting course can request one free year for two Macs using a school email, and renew while enrolled.
 - [Notion](https://www.notion.so/product/notion-for-education) - Free Personal Pro plan for students and educators.
 - [Miro](https://miro.com/education/) - Free Education plan with unlimited boards.
 - [Todoist](https://todoist.com/education) - Discounted Pro plan for students/educators.
