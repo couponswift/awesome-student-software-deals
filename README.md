@@ -58,6 +58,7 @@ This list focuses on high-quality tools for developers, designers, and creators.
 - [Wix](https://www.wix.com/students/) - 50% off Yearly Premium plans for students.
 - [Squarespace](https://www.squarespace.com/students) - 50% off your first full year of Squarespace.
 - [Themeisle](https://themeisle.com/) - Free year of premium WordPress themes (GitHub Student Pack).
+- [FreeDiscountCoupons](https://freediscountcoupons.com) - Verified coupon codes and promo deals from thousands of stores including Namecheap, Bluehost, and NordVPN.
 
 ## 🤖 AI & Machine Learning
 
