@@ -62,6 +62,7 @@ This list focuses on high-quality tools for developers, designers, and creators.
 - [DeepNote](https://deepnote.com/docs/edu-overview) - Free Education plan for students and teachers.
 - [Google Colab](https://colab.research.google.com/) - Free access to GPUs and TPUs for standard use.
 - [Polymer](https://www.polymersearch.com/) - Free Pro plan for students to visualize data with AI.
+- [StudyArena](https://studyarena.com) - Free three-model AI answer comparisons for students, with voting, model reveals and saved history; account required.
 - [Weights & Biases](https://wandb.ai/site/research/) - Free academic plan for tracking ML experiments.
 - [Roboflow](https://roboflow.com/) - Free public workspace usage for computer vision projects.
 
