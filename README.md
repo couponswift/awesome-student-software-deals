@@ -45,6 +45,7 @@ This list focuses on high-quality tools for developers, designers, and creators.
 - [Axure RP](https://www.axure.com/edu) - Free educational license for students and teachers.
 - [Working Copy](https://workingcopyapp.com/education/) - Free Pro features for this powerful iOS Git client.
 - [Sublime Text](https://www.sublimehq.com/store/text) - Unlimited evaluation period (Win/Mac/Linux).
+- [Glim](https://github.com/NeoPanic/Glim) - Free, MIT-licensed macOS file viewer for Markdown, source code, PDF and Office previews, with basic UTF-8 editing; no student verification required.
 
 ## 🌐 Web & Domains
 
