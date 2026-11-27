@@ -45,6 +45,7 @@ This list focuses on high-quality tools for developers, designers, and creators.
 - [Axure RP](https://www.axure.com/edu) - Free educational license for students and teachers.
 - [Working Copy](https://workingcopyapp.com/education/) - Free Pro features for this powerful iOS Git client.
 - [Sublime Text](https://www.sublimehq.com/store/text) - Unlimited evaluation period (Win/Mac/Linux).
+- [Perch](https://perch.run/students) - 50% off the one-time licence for the macOS menu bar app that monitors AI coding agents (Claude Code, Codex, Cursor and more), with a school email address.
 
 ## 🌐 Web & Domains
 
